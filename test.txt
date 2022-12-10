@@ -1,0 +1,8 @@
+start
+    num world1;
+    given(world1 == 3){
+        world1 = 2 + 5;
+    }inst{
+        world1 = 3 + 5;
+    }
+stop
